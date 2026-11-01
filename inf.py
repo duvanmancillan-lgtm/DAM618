@@ -25,8 +25,6 @@ while True:
         print ("?")
         
 
-print(f"Bienvenido {Name}, y tienes {Edad} años")
-
 print("_______________________")
 
 #contraseña
