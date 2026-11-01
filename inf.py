@@ -24,7 +24,6 @@ while True:
     else:
         print ("?")
         
-pass
 
 print(f"Bienvenido {Name}, y tienes {Edad} años")
 
